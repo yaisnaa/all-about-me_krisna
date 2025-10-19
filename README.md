@@ -1,2 +1,3 @@
-# asesmen-2025
-repositori tugas mahasiswa
+Siapa saya? Saya Krisna Kusuma, mahasiswa Sistem dan Teknologi Informasi di ITB yang sedang belajar memahami dunia — bukan hanya lewat kode dan data, tetapi juga lewat diri sendiri. Saya percaya bahwa menjadi “mahasiswa” bukan sekadar tentang nilai atau tugas, tapi tentang menemukan ritme belajar yang membuat saya tumbuh tanpa kehilangan diri di tengah tekanan.
+
+Saya bukan orang yang selalu cepat paham atau langsung sempurna, tapi saya selalu berusaha memahami. Kadang saya butuh waktu lama untuk mengerti satu konsep fisika atau algoritma, tapi saya percaya proses itu berharga. Karena dari setiap rasa bingung dan gagal, saya belajar dua hal: cara berpikir yang lebih sabar, dan cara memandang diri sendiri dengan lebih lembut.
